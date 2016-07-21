@@ -25,3 +25,4 @@
     - role: zsh
       prezto_enabled: yes
       zsh_users: [vagrant]
+    - role: elixir
